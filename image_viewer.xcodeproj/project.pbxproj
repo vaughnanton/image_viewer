@@ -80,14 +80,6 @@
 				15270C511F7CA13500A9DD0A /* Assets.xcassets */,
 				15270C531F7CA13500A9DD0A /* LaunchScreen.storyboard */,
 				15270C561F7CA13500A9DD0A /* Info.plist */,
-				15270C5C1F7CA2BD00A9DD0A /* Content */,
-			);
-			path = image_viewer;
-			sourceTree = "<group>";
-		};
-		15270C5C1F7CA2BD00A9DD0A /* Content */ = {
-			isa = PBXGroup;
-			children = (
 				15270C5D1F7CA2BD00A9DD0A /* nssl0049.jpg */,
 				15270C5E1F7CA2BD00A9DD0A /* nssl0046.jpg */,
 				15270C5F1F7CA2BD00A9DD0A /* nssl0091.jpg */,
@@ -99,7 +91,7 @@
 				15270C651F7CA2BD00A9DD0A /* nssl0033.jpg */,
 				15270C661F7CA2BD00A9DD0A /* nssl0034.jpg */,
 			);
-			path = Content;
+			path = image_viewer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
