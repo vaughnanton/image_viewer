@@ -39,6 +39,10 @@ class DetailViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    override func prefersHomeIndicatorAutoHidden() -> Bool {
+        return navigationController!.hidesBarsOnTap
+    }
+    
 
     /*
     // MARK: - Navigation
